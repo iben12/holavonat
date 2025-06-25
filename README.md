@@ -1,3 +1,6 @@
+> [!WARNING]  
+> Ez a repo az eredeti holavonat.hu weboldal forráskódjának a másolata (forkja). A forrás repo itt található: https://gitlab.com/holavonat1/holavonat-web <br/>Én nem vettem részt a fejlesztésben, a forráskódot változtatás nélkül használtam fel és nem is tervezem magam továbbfejleszteni azt. <br/>iben12
+
 # Hol vannak a vonatok?
 
 A MÁV 2025. június 21-én lekapcsolta minden elérhetőségét a régi vonatinfós térképeknek, ahol egyben látszódott az ország vasúthálózatának állapota. [Telex cikk](https://telex.hu/belfold/2025/06/21/vonatinfo-mav-megszunes-emma)
